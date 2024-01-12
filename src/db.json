@@ -1,0 +1,41 @@
+{
+  "employee": [
+    {
+      "name": "Padam Damai",
+      "email": "padamdamai888@gmail.com",
+      "phone": "000000000000000",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Krishna gole",
+      "email": "kishangot@gmail.com",
+      "phone": "879876543"
+    },
+    {
+      "id": 3,
+      "name": "Niraj kumar",
+      "email": "Nirajkumar@gmail.com",
+      "phone": "98412219876"
+    },
+    {
+      "id": 4,
+      "name": "grish kumar",
+      "email": "greeshkumar@gmail.com",
+      "phone": "0987879876"
+    },
+    {
+      "id": 5,
+      "name": "pdm",
+      "email": "pdnr@gmail.com",
+      "phone": "0987879876"
+    },
+    {
+      "name": "finallyDone",
+      "email": "done@gmail.com",
+      "phone": "1111111",
+      "active": true,
+      "id": 7
+    }
+  ]
+}
